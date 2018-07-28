@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=QSParallel
+comment1.params=data\ start\ end
+comment1.target=QSParallel(int[],\ int,\ int)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=data\ i\ j
+comment3.target=void\ swap(int[],\ int,\ int)
+comment4.params=data\ start\ end
+comment4.target=int\ partition(int[],\ int,\ int)
+comment5.params=data\ start\ end
+comment5.target=void\ quickSort(int[],\ int,\ int)
+comment6.params=n\ k
+comment6.target=int[]\ randomList(int,\ int)
+comment7.params=data
+comment7.target=void\ shuffleArray(int[])
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

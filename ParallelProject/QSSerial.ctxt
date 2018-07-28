@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=QSSerial
+comment1.params=data\ i\ j
+comment1.target=void\ swap(int[],\ int,\ int)
+comment2.params=data\ start\ end
+comment2.target=int\ partition(int[],\ int,\ int)
+comment3.params=data\ start\ end
+comment3.target=void\ quickSort(int[],\ int,\ int)
+comment4.params=n\ k
+comment4.target=int[]\ randomList(int,\ int)
+comment5.params=data
+comment5.target=void\ shuffleArray(int[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
