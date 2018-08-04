@@ -18,3 +18,5 @@ Download this project and run on BlueJ/Netbeans or any other Java IDE.
 4. (http://www.multisoftvirtualacademy.com/blog/common-advantages-and-disadvantages-of-multithreading-in-java/)
 5. (http://codingtonic.blogspot.my/2015/01/divide-and-conquer-concepts-and.html)
 
+### LICENSE
+This project is licensed under the MIT License - see the **[License file]** (https://github.com/FathiahHusna/Quick-Sort-Parallel-/blob/master/LICENSE) 
